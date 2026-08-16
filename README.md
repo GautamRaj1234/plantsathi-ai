@@ -146,7 +146,7 @@ injects the currently identified plant/disease as context, and sends the convers
 to Groq's OpenAI-compatible chat completions endpoint (`llama-3.1-8b-instant` by
 default — fast and free-tier friendly).
 
-## 📦 Suggested Extensions (great for a viva/project defense)
+## 📦 Future Extensions
 
 - Swap `lowdb` for MongoDB/PostgreSQL for better concurrency at scale
 - Add a "forgot password" flow (email-based reset token)
