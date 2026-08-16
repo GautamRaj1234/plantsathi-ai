@@ -1,0 +1,1057 @@
+{
+  "users": [
+    {
+      "id": "cAe_qXAM2kuuqWCKGAzdp",
+      "name": "Gautam Raj",
+      "email": "gp832008@gmail.com",
+      "passwordHash": "$2a$10$cqr721yt2miawy6B.e005eWh3ehFYKf228M0A/CbLz/chhMKNbGXy",
+      "createdAt": "2026-08-16T07:11:55.515Z"
+    }
+  ],
+  "plants": [
+    {
+      "id": "Ft07cKOlbFjB87T4rKL0r",
+      "name": "Chinese Money Plant",
+      "species": "Pilea peperomioides",
+      "notes": "Last diagnosis: Bell Pepper with Bacterial Spot (60%)",
+      "lastWatered": "2026-08-16T06:13:54.741Z",
+      "healthLog": [],
+      "createdAt": "2026-08-13T06:24:47.161Z"
+    },
+    {
+      "id": "gQy5xcbGad2yMc4o7T0Ss",
+      "name": "Rubberplant",
+      "species": "Ficus elastica",
+      "notes": "Last diagnosis: Healthy Peach Plant (27%)",
+      "lastWatered": "2026-08-16T06:13:58.576Z",
+      "healthLog": [],
+      "createdAt": "2026-08-13T06:35:32.231Z"
+    },
+    {
+      "id": "Kmtk4gW4dkeR3dLUJk0zJ",
+      "name": "Golden pothos",
+      "species": "Epipremnum aureum",
+      "notes": "Last diagnosis: Tomato with Late Blight (28%)",
+      "lastWatered": "2026-08-16T06:13:59.959Z",
+      "healthLog": [],
+      "createdAt": "2026-08-13T07:00:04.249Z"
+    },
+    {
+      "id": "gRt010iffwSMecNlrnWZs",
+      "name": "Snake plant",
+      "species": "Dracaena trifasciata",
+      "notes": "Last diagnosis: Tomato with Late Blight (19%)",
+      "lastWatered": "2026-08-16T06:13:56.374Z",
+      "healthLog": [],
+      "createdAt": "2026-08-13T07:00:29.801Z"
+    },
+    {
+      "id": "2GgTUP4K4RoRpK-8A9kq4",
+      "name": "White bird of-paradise tree",
+      "species": "Strelitzia nicolai",
+      "notes": "Last diagnosis: Tomato with Late Blight (39%)",
+      "lastWatered": "2026-08-16T06:13:57.641Z",
+      "healthLog": [],
+      "createdAt": "2026-08-13T07:00:55.668Z"
+    },
+    {
+      "id": "_U9RzviBzIaT6dYq6hK_N",
+      "userId": "cAe_qXAM2kuuqWCKGAzdp",
+      "name": "Golden pothos",
+      "species": "Epipremnum aureum",
+      "notes": "Last diagnosis: Tomato with Late Blight (28%)",
+      "lastWatered": "2026-08-16T08:43:54.580Z",
+      "healthLog": [],
+      "createdAt": "2026-08-16T08:43:54.581Z"
+    }
+  ],
+  "diagnoses": [
+    {
+      "id": "H-_hanpaFQWPVan37FO39",
+      "disease": "Early Blight (Tomato)",
+      "confidence": 82,
+      "allPredictions": [
+        {
+          "label": "Early Blight (Tomato)",
+          "confidence": 82
+        },
+        {
+          "label": "Healthy",
+          "confidence": 11
+        },
+        {
+          "label": "Late Blight (Tomato)",
+          "confidence": 7
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-12T20:53:08.494Z"
+    },
+    {
+      "id": "P8ReyoJqcvpob6tnC3naS",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T05:38:30.394Z"
+    },
+    {
+      "id": "ivY-y-x5cD3bspaYsfrpl",
+      "disease": "Tomato with Late Blight",
+      "confidence": 19,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 19
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 13
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 12
+        },
+        {
+          "label": "Healthy Tomato Plant",
+          "confidence": 8
+        },
+        {
+          "label": "Healthy Raspberry Plant",
+          "confidence": 5
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:20:23.521Z"
+    },
+    {
+      "id": "zk83hP7VlzwJG4Uq8YHC0",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:20:59.836Z"
+    },
+    {
+      "id": "qTCndyuIYn-45Gvr_WxsA",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:21:17.182Z"
+    },
+    {
+      "id": "VMvBzWxsN1ZkjGm0pBma_",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:21:25.132Z"
+    },
+    {
+      "id": "3eJxtvPQZldC6EfkcI_v3",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:22:16.620Z"
+    },
+    {
+      "id": "678SMfImWhe_fwlxnxCh5",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:24:33.902Z"
+    },
+    {
+      "id": "b7I6a2U3YmyB0lz7r9N-a",
+      "disease": "Healthy Peach Plant",
+      "confidence": 27,
+      "allPredictions": [
+        {
+          "label": "Healthy Peach Plant",
+          "confidence": 27
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 23
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 15
+        },
+        {
+          "label": "Healthy Blueberry Plant",
+          "confidence": 5
+        },
+        {
+          "label": "Healthy Apple",
+          "confidence": 4
+        }
+      ],
+      "summary": "Your plant looks healthy! Keep up the good care routine.",
+      "recommendedActions": [
+        "Continue your current watering schedule",
+        "Monitor weekly for early signs of stress",
+        "Ensure adequate sunlight"
+      ],
+      "isHealthy": true,
+      "createdAt": "2026-08-13T06:24:54.403Z"
+    },
+    {
+      "id": "gM0vy5-ZKS87X6H6smteE",
+      "disease": "Healthy Peach Plant",
+      "confidence": 27,
+      "allPredictions": [
+        {
+          "label": "Healthy Peach Plant",
+          "confidence": 27
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 23
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 15
+        },
+        {
+          "label": "Healthy Blueberry Plant",
+          "confidence": 5
+        },
+        {
+          "label": "Healthy Apple",
+          "confidence": 4
+        }
+      ],
+      "summary": "Your plant looks healthy! Keep up the good care routine.",
+      "recommendedActions": [
+        "Continue your current watering schedule",
+        "Monitor weekly for early signs of stress",
+        "Ensure adequate sunlight"
+      ],
+      "isHealthy": true,
+      "createdAt": "2026-08-13T06:24:57.502Z"
+    },
+    {
+      "id": "j61-SXhqdyV3v_2brzC52",
+      "disease": "Healthy Peach Plant",
+      "confidence": 27,
+      "allPredictions": [
+        {
+          "label": "Healthy Peach Plant",
+          "confidence": 27
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 23
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 15
+        },
+        {
+          "label": "Healthy Blueberry Plant",
+          "confidence": 5
+        },
+        {
+          "label": "Healthy Apple",
+          "confidence": 4
+        }
+      ],
+      "summary": "Your plant looks healthy! Keep up the good care routine.",
+      "recommendedActions": [
+        "Continue your current watering schedule",
+        "Monitor weekly for early signs of stress",
+        "Ensure adequate sunlight"
+      ],
+      "isHealthy": true,
+      "createdAt": "2026-08-13T06:24:59.524Z"
+    },
+    {
+      "id": "itSJ3Te9ALsarABmJYN9S",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:25:07.914Z"
+    },
+    {
+      "id": "86gDDhNpaH1jAUHAhjsKu",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:25:10.065Z"
+    },
+    {
+      "id": "Kfx4R4lyxQaap-XsG1grY",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:25:12.148Z"
+    },
+    {
+      "id": "X9GEVS8PzJNdTyb7pn8Ml",
+      "disease": "Bell Pepper with Bacterial Spot",
+      "confidence": 60,
+      "allPredictions": [
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 60
+        },
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 16
+        },
+        {
+          "label": "Tomato with Septoria Leaf Spot",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 4
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 3
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:25:14.036Z"
+    },
+    {
+      "id": "DshHGAYqpWriii71Q4aE6",
+      "disease": "Healthy Peach Plant",
+      "confidence": 27,
+      "allPredictions": [
+        {
+          "label": "Healthy Peach Plant",
+          "confidence": 27
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 23
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 15
+        },
+        {
+          "label": "Healthy Blueberry Plant",
+          "confidence": 5
+        },
+        {
+          "label": "Healthy Apple",
+          "confidence": 4
+        }
+      ],
+      "summary": "Your plant looks healthy! Keep up the good care routine.",
+      "recommendedActions": [
+        "Continue your current watering schedule",
+        "Monitor weekly for early signs of stress",
+        "Ensure adequate sunlight"
+      ],
+      "isHealthy": true,
+      "createdAt": "2026-08-13T06:35:17.921Z"
+    },
+    {
+      "id": "XY2O0IJ7sXzqgSk2tRcmT",
+      "disease": "Healthy Peach Plant",
+      "confidence": 27,
+      "allPredictions": [
+        {
+          "label": "Healthy Peach Plant",
+          "confidence": 27
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 23
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 15
+        },
+        {
+          "label": "Healthy Blueberry Plant",
+          "confidence": 5
+        },
+        {
+          "label": "Healthy Apple",
+          "confidence": 4
+        }
+      ],
+      "summary": "Your plant looks healthy! Keep up the good care routine.",
+      "recommendedActions": [
+        "Continue your current watering schedule",
+        "Monitor weekly for early signs of stress",
+        "Ensure adequate sunlight"
+      ],
+      "isHealthy": true,
+      "createdAt": "2026-08-13T06:47:10.859Z"
+    },
+    {
+      "id": "UQ5nue0VwewEpUXMzocth",
+      "disease": "Tomato with Late Blight",
+      "confidence": 28,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 28
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 18
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 11
+        },
+        {
+          "label": "Cedar Apple Rust",
+          "confidence": 10
+        },
+        {
+          "label": "Grape with Black Rot",
+          "confidence": 6
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:48:13.976Z"
+    },
+    {
+      "id": "qO-n0yoRD1M7oFAwEn_3i",
+      "disease": "Tomato with Late Blight",
+      "confidence": 28,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 28
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 18
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 11
+        },
+        {
+          "label": "Cedar Apple Rust",
+          "confidence": 10
+        },
+        {
+          "label": "Grape with Black Rot",
+          "confidence": 6
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:48:25.791Z"
+    },
+    {
+      "id": "Nvc_R-j_TuGrKHQZBkRrv",
+      "disease": "Tomato with Late Blight",
+      "confidence": 19,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 19
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 13
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 11
+        },
+        {
+          "label": "Healthy Tomato Plant",
+          "confidence": 8
+        },
+        {
+          "label": "Healthy Raspberry Plant",
+          "confidence": 5
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:48:35.882Z"
+    },
+    {
+      "id": "vrsiG90EgFwy8fM5R6Sf-",
+      "disease": "Tomato with Late Blight",
+      "confidence": 39,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 39
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 14
+        },
+        {
+          "label": "Healthy Tomato Plant",
+          "confidence": 6
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 5
+        },
+        {
+          "label": "Tomato with Target Spot",
+          "confidence": 4
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:49:06.175Z"
+    },
+    {
+      "id": "5z8CPqj5BNFb1IAUk6xj4",
+      "disease": "Tomato with Late Blight",
+      "confidence": 39,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 39
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 14
+        },
+        {
+          "label": "Healthy Tomato Plant",
+          "confidence": 6
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 5
+        },
+        {
+          "label": "Tomato with Target Spot",
+          "confidence": 4
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:49:08.113Z"
+    },
+    {
+      "id": "-ck3prIK7OV8ASfqgcC4n",
+      "disease": "Tomato with Late Blight",
+      "confidence": 28,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 28
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 18
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 11
+        },
+        {
+          "label": "Cedar Apple Rust",
+          "confidence": 10
+        },
+        {
+          "label": "Grape with Black Rot",
+          "confidence": 6
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T06:59:29.751Z"
+    },
+    {
+      "id": "2jgmwyW6KtPqZiSeYjLlt",
+      "disease": "Tomato with Late Blight",
+      "confidence": 19,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 19
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 13
+        },
+        {
+          "label": "Healthy Bell Pepper Plant",
+          "confidence": 11
+        },
+        {
+          "label": "Healthy Tomato Plant",
+          "confidence": 8
+        },
+        {
+          "label": "Healthy Raspberry Plant",
+          "confidence": 5
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T07:00:24.046Z"
+    },
+    {
+      "id": "TA7tURlUWL7dS8YQDIt8s",
+      "disease": "Tomato with Late Blight",
+      "confidence": 39,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 39
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 14
+        },
+        {
+          "label": "Healthy Tomato Plant",
+          "confidence": 6
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 5
+        },
+        {
+          "label": "Tomato with Target Spot",
+          "confidence": 4
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-13T07:00:48.449Z"
+    },
+    {
+      "id": "_m1dEJBXpfptKf_cpds9L",
+      "disease": "Tomato with Late Blight",
+      "confidence": 39,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 39
+        },
+        {
+          "label": "Tomato Yellow Leaf Curl Virus",
+          "confidence": 14
+        },
+        {
+          "label": "Healthy Tomato Plant",
+          "confidence": 6
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 5
+        },
+        {
+          "label": "Tomato with Target Spot",
+          "confidence": 4
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-16T06:17:32.022Z"
+    },
+    {
+      "id": "5VUoYbExAYazqpfCJeJuC",
+      "userId": "cAe_qXAM2kuuqWCKGAzdp",
+      "disease": "Tomato with Late Blight",
+      "confidence": 28,
+      "allPredictions": [
+        {
+          "label": "Tomato with Late Blight",
+          "confidence": 28
+        },
+        {
+          "label": "Tomato with Early Blight",
+          "confidence": 18
+        },
+        {
+          "label": "Bell Pepper with Bacterial Spot",
+          "confidence": 11
+        },
+        {
+          "label": "Cedar Apple Rust",
+          "confidence": 10
+        },
+        {
+          "label": "Grape with Black Rot",
+          "confidence": 6
+        }
+      ],
+      "summary": "Signs of stress or disease detected. Early action improves recovery odds.",
+      "recommendedActions": [
+        "Isolate the plant from other healthy plants if possible",
+        "Remove and dispose of visibly infected leaves",
+        "Avoid overhead watering to reduce leaf moisture",
+        "Apply an appropriate fungicide/pesticide if symptoms persist"
+      ],
+      "isHealthy": false,
+      "createdAt": "2026-08-16T08:43:09.475Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "oVEPDAp5bt3lx7rEP1obr",
+      "message": "How often should i water",
+      "reply": "Here's some general guidance for your Tomato Plant: water when the top inch of soil feels dry, ensure 6+ hours of indirect sunlight, and check the undersides of leaves weekly for pests. (This is a demo reply — add a real GROQ_API_KEY in backend/.env to get live AI-generated answers to \"How often should i water\".)",
+      "createdAt": "2026-08-12T20:53:39.951Z"
+    },
+    {
+      "id": "2-GWofHGL4OyGlRlwH0Sa",
+      "message": "which soil is best",
+      "reply": "Here's some general guidance for your Tomato Plant: water when the top inch of soil feels dry, ensure 6+ hours of indirect sunlight, and check the undersides of leaves weekly for pests. (This is a demo reply — add a real GROQ_API_KEY in backend/.env to get live AI-generated answers to \"which soil is best\".)",
+      "createdAt": "2026-08-12T20:54:03.245Z"
+    },
+    {
+      "id": "F3fkkY_tAjZ87oOq5jheE",
+      "message": "which soil suits best",
+      "reply": "For your Chinese Money Plant, I recommend using a well-draining potting mix specifically designed for indoor plants. It should be a mix of peat moss, perlite, and vermiculite. This type of soil will help prevent waterlogged soil and root rot.\n\nHere's a simple mix you can create:\n\n- 20% peat moss (for moisture retention)\n- 20% perlite (for good drainage)\n- 20% vermiculite (for aeration and water retention)\n- 40% general-purpose potting soil\n\nAvoid using regular garden soil, as it can compact and prevent proper drainage.",
+      "createdAt": "2026-08-13T05:43:37.806Z"
+    },
+    {
+      "id": "TqpJowF6F469uGg9_KaiG",
+      "userId": "cAe_qXAM2kuuqWCKGAzdp",
+      "message": "which soil is best for this plant?",
+      "reply": "For your Golden Pothos, I recommend using a well-draining potting mix. A mix with the following properties will be ideal:\n\n1. High organic matter content (compost or peat moss)\n2. Good aeration (perlite or vermiculite)\n3. pH range between 5.5 and 6.5\n\nSome popular potting mix options include:\n\n1. Miracle-Gro Indoor Potting Mix\n2. Black Kow All Purpose Potting Mix\n3. Espoma Organic Potting Mix\n\nAvoid using regular garden soil, as it can compact and prevent proper drainage.",
+      "createdAt": "2026-08-16T08:43:37.897Z"
+    }
+  ]
+}
