@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const api = axios.create({ baseURL: "/api" });
+const API_BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:5050/api"; 
+const api = axios.create({ baseURL: API_BASE_URL });
 
 // Attach the saved auth token to every outgoing request, if present.
 api.interceptors.request.use((config) => {
