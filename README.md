@@ -1,4 +1,5 @@
 # PlantSathi AI 🌱 — Your Plant's Personal Doctor
+**🔗 Live Demo:** [plantsathi-ai.vercel.app](https://plantsathi-ai.vercel.app) >
 
 An AI-powered plant healthcare platform built as a final year project. Create an
 account, upload a photo of a plant, and PlantSathi AI identifies the species, detects
