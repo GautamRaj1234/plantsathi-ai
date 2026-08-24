@@ -13,7 +13,6 @@
 [![PlantNet](https://img.shields.io/badge/species%20ID-PlantNet%20API-4CAF50)](https://my.plantnet.org/)
 
 **[🔗 GitHub Repo](#)** · **[🌍 Live Demo](#)**
-*(add your links here once you've pushed to GitHub / deployed)*
 
 </div>
 
