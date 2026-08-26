@@ -12,7 +12,7 @@
 [![Groq](https://img.shields.io/badge/AI-Groq%20(Llama%203.1)-F55036)](https://groq.com/)
 [![PlantNet](https://img.shields.io/badge/species%20ID-PlantNet%20API-4CAF50)](https://my.plantnet.org/)
 
-**[🔗 GitHub Repo](#)** · **[🌍 Live Demo](#)**
+**[🔗 GitHub Repo](https://github.com/GautamRaj1234/plantsathi-ai)** · **[🌍 Live Demo](https://plantsathi-ai.vercel.app)**
 
 </div>
 
